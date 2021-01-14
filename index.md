@@ -34,7 +34,7 @@ Seguem abaixo, de forma detalhada, os Requisitos Funcionais e os Requisitos Não
 | Identificador: | RF02                                                         |
 | Nome:          | Cadastrar categoria                                          |
 | Prioridade:    | Importante                                                   |
-| Descrição:     | O usuário poderá cadastrar novas categorias de sua preferência.<br><br>Exemplo:<br><ul><li>Jogos</li></ul><br><p>Desse modo, sempre que comprar algum jogo ou comprar algo dentro do jogo, o usuário poderá adicionar o gasto dentro da categoria Jogos.</p> |
+| Descrição:     | O usuário poderá cadastrar novas categorias de sua preferência.<br><br>Exemplo:<br><ul><li>Jogos</li></ul><p>Desse modo, sempre que comprar algum jogo ou comprar algo dentro do jogo, o usuário poderá adicionar o gasto dentro da categoria Jogos.</p> |
 
 | Campo          | Descrição                                                    |
 | -------------- | ------------------------------------------------------------ |
