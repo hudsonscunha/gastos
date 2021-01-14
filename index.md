@@ -20,24 +20,18 @@ Um sistema completo para controlar contas a pagar e receber, e controlar seus ga
 
 ### Requisitos Funcionais
 
-| RF-01                     |      |
-| ------------------------- | ---- |
-| Nome:                     |      |
-| Descrição:                |      |
-| Prioridade:               |      |
-| Entradas e pré-condições: |      |
-| Saídas e pós-condições:   |      |
-| Fluxo principal:          |      |
-| Fluxo secundário:         |      |
+| Campo          | Descrição                                                    |
+| -------------- | ------------------------------------------------------------ |
+| Identificador: | RF01                                                         |
+| Nome:          | Calendário de prazos                                         |
+| Prioridade:    | Importante                                                   |
+| Descrição:     | O sistema deve incluir um calendário de prazos (agenda), onde poderá ser cadastrados os dias com contas a pagar e a receber.<br><br/>O usuário pode cadastrar em um calendário o dia do vencimento de alguma conta ou o recebimento de dinheiro, permitindo maior controle das datas em que o dinheiro entra ou sai. |
 
-| RF-02                     |      |
-| ------------------------- | ---- |
-| Nome:                     |      |
-| Descrição:                |      |
-| Prioridade:               |      |
-| Entradas e pré-condições: |      |
-| Saídas e pós-condições:   |      |
-| Fluxo principal:          |      |
-| Fluxo secundário:         |      |
+| Campo          | Descrição |
+| -------------- | --------- |
+| Identificador: |           |
+| Nome:          |           |
+| Prioridade:    |           |
+| Descrição:     |           |
 
 ### Requisitos Não Funcionais
