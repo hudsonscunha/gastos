@@ -34,7 +34,7 @@ Seguem abaixo, de forma detalhada, os Requisitos Funcionais e os Requisitos Não
 | Identificador: | RF02                                                         |
 | Nome:          | Cadastrar categoria                                          |
 | Prioridade:    | Importante                                                   |
-| Descrição:     | O usuário poderá cadastrar novas categorias de sua preferência.<br><br>Exemplo:<br>+ Jogos<br>Desse modo, sempre que comprar algum jogo ou comprar algo dentro do jogo, o usuário poderá adicionar o gasto dentro da categoria Jogos. |
+| Descrição:     | O usuário poderá cadastrar novas categorias de sua preferência.<br><br>Exemplo:<br>- Jogos<br>Desse modo, sempre que comprar algum jogo ou comprar algo dentro do jogo, o usuário poderá adicionar o gasto dentro da categoria Jogos. |
 
 | Campo          | Descrição                                                    |
 | -------------- | ------------------------------------------------------------ |
@@ -57,6 +57,13 @@ Seguem abaixo, de forma detalhada, os Requisitos Funcionais e os Requisitos Não
 | Prioridade:    | Importante                                                   |
 | Descrição:     | O usuário pode destinar um percentual das receitas como um valor emergencial, e todos os cálculos das despesas serão feitos desconsiderando este valor. |
 
+| Campo          | Descrição                                                    |
+| -------------- | ------------------------------------------------------------ |
+| Identificador: | RF06                                                         |
+| Nome:          | Emitir relatório                                             |
+| Prioridade:    | Importante                                                   |
+| Descrição:     | O usuário poderá emitir um relatório para saber quanto foi gasto em cada categoria. |
+
 | Campo          | Descrição |
 | -------------- | --------- |
 | Identificador: |           |
@@ -72,7 +79,7 @@ Seguem abaixo, de forma detalhada, os Requisitos Funcionais e os Requisitos Não
 | Nome:          | Organizado por categoria                                     |
 | Categoria:     | Usabilidade                                                  |
 | Prioridade:    | Importante                                                   |
-| Descrição:     | Os gastos devem ser organizadas por categoria.<br><br/>Exemplo:<br>+ Alimentação<br>+ Saúde<br>+ Educação<br>+ Roupas |
+| Descrição:     | Os gastos devem ser organizadas por categoria.<br><br/>Exemplo:<br>- Alimentação<br>- Saúde<br>- Educação<br>- Roupas |
 
 | Campo          | Descrição |
 | -------------- | --------- |
