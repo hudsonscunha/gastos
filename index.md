@@ -20,4 +20,24 @@ Um sistema completo para controlar contas a pagar e receber, e controlar seus ga
 
 ### Requisitos Funcionais
 
+| RF-01                     |      |
+| ------------------------- | ---- |
+| Nome:                     |      |
+| Descrição:                |      |
+| Prioridade:               |      |
+| Entradas e pré-condições: |      |
+| Saídas e pós-condições:   |      |
+| Fluxo principal:          |      |
+| Fluxo secundário:         |      |
+
+| RF-02                     |      |
+| ------------------------- | ---- |
+| Nome:                     |      |
+| Descrição:                |      |
+| Prioridade:               |      |
+| Entradas e pré-condições: |      |
+| Saídas e pós-condições:   |      |
+| Fluxo principal:          |      |
+| Fluxo secundário:         |      |
+
 ### Requisitos Não Funcionais
