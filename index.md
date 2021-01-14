@@ -18,14 +18,44 @@ Um sistema completo para controlar contas a pagar e receber, e controlar seus ga
 
 ## Requisitos
 
+Seguem abaixo, de forma detalhada, os Requisitos Funcionais e os Requisitos Não Funcionais do sistema.
+
 ### Requisitos Funcionais
 
 | Campo          | Descrição                                                    |
 | -------------- | ------------------------------------------------------------ |
 | Identificador: | RF01                                                         |
-| Nome:          | Calendário de prazos                                         |
+| Nome:          | Agendar prazo                                                |
 | Prioridade:    | Importante                                                   |
-| Descrição:     | O sistema deve incluir um calendário de prazos (agenda), onde poderá ser cadastrados os dias com contas a pagar e a receber.<br><br/>O usuário pode cadastrar em um calendário o dia do vencimento de alguma conta ou o recebimento de dinheiro, permitindo maior controle das datas em que o dinheiro entra ou sai. |
+| Descrição:     | O sistema deve incluir um agendamento de prazo. O prazo pode ser o vencimento de uma conta ou um valor a receber. |
+
+| Campo          | Descrição                                                    |
+| -------------- | ------------------------------------------------------------ |
+| Identificador: | RF02                                                         |
+| Nome:          | Cadastrar categoria                                          |
+| Prioridade:    | Importante                                                   |
+| Descrição:     | O usuário poderá cadastrar novas categorias de sua preferência.<br><br>Exemplo:<br><li>Jogos</li><br><br>Desse modo, sempre que comprar algum jogo ou comprar algo dentro do jogo, o usuário poderá adicionar o gasto dentro da categoria Jogos. |
+
+| Campo          | Descrição                                                    |
+| -------------- | ------------------------------------------------------------ |
+| Identificador: | RF03                                                         |
+| Nome:          | Notificar atrasos de contas                                  |
+| Prioridade:    | Essencial                                                    |
+| Descrição:     | Próximo do dia de vencimento, o sistema deve notificar na tela informando ao usuário o dia de vencimento de contas. |
+
+| Campo          | Descrição                                                    |
+| -------------- | ------------------------------------------------------------ |
+| Identificador: | RF04                                                         |
+| Nome:          | Marcar criticidade                                           |
+| Prioridade:    | Importante                                                   |
+| Descrição:     | O usuário pode marcar a criticidade em cada conta a pagar.<br><br>Exemplo:<br>O usuário marca a conta de Água como crítica. Com isso sistema irá dar prioridade a esse tipo de despesa para notificar. |
+
+| Campo          | Descrição                                                    |
+| -------------- | ------------------------------------------------------------ |
+| Identificador: | RF05                                                         |
+| Nome:          | Reservar emergência                                          |
+| Prioridade:    | Importante                                                   |
+| Descrição:     | O usuário pode destinar um percentual das receitas como um valor emergencial, e todos os cálculos das despesas serão feitos desconsiderando este valor. |
 
 | Campo          | Descrição |
 | -------------- | --------- |
@@ -35,3 +65,19 @@ Um sistema completo para controlar contas a pagar e receber, e controlar seus ga
 | Descrição:     |           |
 
 ### Requisitos Não Funcionais
+
+| Campo          | Descrição                                                    |
+| -------------- | ------------------------------------------------------------ |
+| Identificador: | RNF01                                                        |
+| Nome:          | Organizado por categoria                                     |
+| Categoria:     | Usabilidade                                                  |
+| Prioridade:    | Importante                                                   |
+| Descrição:     | Os gastos devem ser organizadas por categoria.<br><br/>Exemplo:<br><li>Alimentação</li><br><li>Saúde</li><br/><li>Educação</li><br/><li>Roupas</li><br/> |
+
+| Campo          | Descrição |
+| -------------- | --------- |
+| Identificador: |           |
+| Nome:          |           |
+| Categoria:     |           |
+| Prioridade:    |           |
+| Descrição:     |           |
