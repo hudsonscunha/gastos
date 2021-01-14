@@ -3,7 +3,6 @@
 		# Projeto - Parte 1
 	</head>
 	
-	<body>
 		## Documento do projeto
 
 		+ Definição do contexto do sistema;
@@ -55,13 +54,12 @@
 
 
 
-		Data da Entrega: 13/01/2021
+		Data da Entrega: 17/01/2021
 
 		 
 
 		Atenciosamente,
 
 		Profª. Jacilane Rabelo
-	</body>
 
 </html>
