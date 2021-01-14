@@ -1,5 +1,4 @@
-<html>
-  
+
 # Controle de Gastos
 
 ## Objetivos
@@ -83,4 +82,4 @@ Seguem abaixo, de forma detalhada, os Requisitos Funcionais e os Requisitos Não
 | Categoria:     |           |
 | Prioridade:    |           |
 | Descrição:     |           |
-</html>
+
